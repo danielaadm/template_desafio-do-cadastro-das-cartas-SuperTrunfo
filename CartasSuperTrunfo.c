@@ -10,7 +10,8 @@ int main() {
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
-printf(Desafio do cadastro das cartas Super Trunfo/n);
+printf("Desafio do cadastro das cartas Super Trunfo\n");
+printf("Novo Commit\n");
 
     // =========================
     // DECLARAÇÃO DAS VARIÁVEIS
